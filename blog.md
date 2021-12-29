@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# 在数字时代寻找阅读体验-我为什么要做一款冷门的阅读APP?
+  
+我是一个阅读者，也是一个独立开发者。在这个我们滑动手指就能获得多巴胺的时代，我开发了一个专门为阅读爱好者设计的iOS应用。
+![IMG](/moodImage.jpg)
 
-You can use the [editor on GitHub](https://github.com/fengyiqicoder/SinkIntoPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sink是我开发的应用的名字，象征的希望给用户带来沉浸式的阅读体验。在这个App里的交互和体验，都来自于我对于阅读的理解和喜爱。  
+  
+## 👉 介绍一些Sink App的功能
+![IMG](/presentation.jpg)
+### 不被诱惑的阅读空间  
+在Sink里，你可以在开始阅读时，点开开始专注阅读的按钮，Sink将会为你播放音乐。Sink 支持直接调用并播放你的 Apple Music 歌单，如果你喜欢安安静静地阅读，也可以选择将音乐关闭。进入阅读空间界面中，Sink会把你固定在一个界面，在这段时间里，你就可以享受阅读啦。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 制定阅读计划时长
+Sink还通过强制设定每天阅读时长并做成环形统计图的形式，鞭策用户每天进行一定时间的阅读。毕竟，和我们生活里许许多多的麻烦事，有趣的事相比，阅读的优先级了很多。但是对我们的心灵而言，每天能有一段阅读的时间，能让思维平缓，思路清晰。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 书摘记录方式
 
-```markdown
-Syntax highlighted code block
+在我们想要记录书摘的时候，Sink会出现一个非常简洁的界面，不会有任何的元素打扰你的输入。在这个界面里，你还可以选择使用iOS15的新特性，扫描实体书籍的文字，快速将其记录下来。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+下载方式:  [官网](http://SinkInto.page) | [App Store](https://apps.apple.com/cn/app/id1539314844)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fengyiqicoder/SinkIntoPage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
